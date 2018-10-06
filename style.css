@@ -1,0 +1,186 @@
+body {
+	background: #ededed;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: black;
+}
+
+h3 {
+	color: tomato;
+}
+
+span {
+	font-weight: bolder;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.white {
+	background: white;
+	margin: 18%;
+	padding: 20px;
+	position: relative;
+	font-size: 13px;
+}
+
+.prime {
+	text-align: center;
+	padding: 80px 0 10px 0;
+
+}
+
+.prime span {
+	color: tomato;
+}
+
+.prime img {
+	width: 170px;
+	border-radius: 900px;
+	position: absolute;
+	top: -8%;
+	left: 40%;
+	border: solid 2px #ededed;
+	box-sizing: border-box;
+
+}
+
+.segu {
+	height: 150px;
+	padding: 17px 17px 0 17px;
+
+}
+
+.acerca {
+	width: 50%;
+	box-sizing: border-box;
+	float: left;
+}
+
+.contact {
+	width: 50%;
+	box-sizing: border-box;
+	float: left;
+}
+
+.terc {
+	width: 50%;
+	box-sizing: border-box;
+	float: left;
+	padding: 0 17px 0 17px;
+	font-size: 14px;
+}
+.educ {
+	height: 350px;
+}
+.fech {
+	font-size: 12px;
+	width:10%;
+	float: left;
+	box-sizing: border-box;
+}
+
+.bubble {
+	width: 90%;
+	box-sizing: border-box;
+	float: left;
+	background: #eeeeee;
+	height: 140px;
+	margin: 0 0 10px;
+	padding: 5px 10px;
+}
+
+.expa {
+	background: white;
+	width: 70%;
+	padding: 0;
+}
+
+.goog {
+	width: 30%
+}
+
+/*
+ * esto es un comentario en css
+ */
+
+ .cuart {
+ 	width: 50%;
+ 	box-sizing: border-box;
+ 	float: left;
+ 	padding: 0 17px 0 17px;
+}
+
+.skills {
+	height: 350px;
+}
+
+.barra {
+	background: tomato;
+	padding: 3px;
+	margin: 5px;
+}
+
+.uno {
+	width: 100%;
+}
+
+.dos {
+	width: 80%;
+}
+
+.tres {
+	width: 60%;
+}
+
+.cuatro {
+	width: 50%;
+}
+
+.cinco {
+	width: 30%;
+}
+
+.barra p {
+	font-size: 13px;
+	color: white;
+	margin: 0;
+	font-weight: bolder;
+}
+
+.idiohob {
+	height: 350px;
+	font-size: 14px;
+}
+
+.idio p {
+	border-bottom: solid 1px #eeeeee;
+	padding: 2px;
+}
+
+span.stars {
+	float: right;
+	color: tomato;
+}
+
+.cubired {
+	background: #a75567;
+	float: left;
+	margin: 2px;
+	padding: 5px;
+}
+
+.cubired span {
+	color: white;
+}
+
+.bott {
+	color: grey;
+	font-size: 12px;
+	text-align: right;
+	border-top: solid 1px #eeeeee;
+}
+
